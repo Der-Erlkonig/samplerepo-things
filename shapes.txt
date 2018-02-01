@@ -2,4 +2,4 @@ circle
 oval
 rectangle
 square
-TETAHEDRON
+ellipse
